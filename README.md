@@ -49,7 +49,7 @@ This Python script implements a basic keylogger using the `pynput` and `pywin32`
     python3 keylogger.py
     ```
 
-    The script will start logging keystrokes to the specified file and hide the console window.
+    The script will log keystrokes to the specified file and hide the console window.
 
 ## Notes
 
